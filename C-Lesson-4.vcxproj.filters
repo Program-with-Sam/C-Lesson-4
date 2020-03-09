@@ -18,5 +18,13 @@
     <ClCompile Include="C-Lesson-4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MathFuncs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MathFuncs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

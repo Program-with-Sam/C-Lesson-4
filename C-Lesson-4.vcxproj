@@ -148,6 +148,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C-Lesson-4.cpp" />
+    <ClCompile Include="MathFuncs.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MathFuncs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
